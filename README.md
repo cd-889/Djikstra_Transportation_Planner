@@ -1,4 +1,4 @@
-# Djikstra-Transportation_Planner README
+# Djikstra_Transportation_Planner README
 
 Student 1: Tianrun Xu
 
